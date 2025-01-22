@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|c:\\users\\nikol\\desktop\\proj_git\\radhci2\\networkservice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|c:\\users\\nikol\\desktop\\proj_git\\radhci2\\networkservice\\validationerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:validationerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|c:\\users\\nikol\\desktop\\proj_git\\radhci2\\networkservice\\validationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:validationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|c:\\users\\nikol\\desktop\\proj_git\\radhci2\\networkservice\\myicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:myicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|c:\\users\\nikol\\desktop\\proj_git\\radhci2\\networkservice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|c:\\users\\nikol\\desktop\\proj_git\\radhci2\\networkservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\views\\networkdisplayview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:views\\networkdisplayview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\views\\networkentitiesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:views\\networkentitiesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\views\\measurementgraphview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:views\\measurementgraphview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\viewmodel\\networkentitiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5818D15-51C2-4B7B-ADF4-150D6BFE817F}|NetworkService.csproj|solutionrelative:viewmodel\\networkentitiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationErrors.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\ValidationErrors.cs",
+              "RelativeDocumentMoniker": "ValidationErrors.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\ValidationErrors.cs",
+              "RelativeToolTip": "ValidationErrors.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:57:43.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationBase.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\ValidationBase.cs",
+              "RelativeDocumentMoniker": "ValidationBase.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\ValidationBase.cs",
+              "RelativeToolTip": "ValidationBase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:57:42.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyICommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\MyICommand.cs",
+              "RelativeDocumentMoniker": "MyICommand.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\MyICommand.cs",
+              "RelativeToolTip": "MyICommand.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:57:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:57:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T20:57:24.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NetworkDisplayView.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\Views\\NetworkDisplayView.xaml",
+              "RelativeDocumentMoniker": "Views\\NetworkDisplayView.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\Views\\NetworkDisplayView.xaml",
+              "RelativeToolTip": "Views\\NetworkDisplayView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T14:46:45.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFlSURBVDhPpZO9qsJAEIWPqyaFjQha2MUHsNDK1p/eRgsbg1Z2UfAx/AEfwVIb8TksfAGxSBAFJY2FpBiddQ1XvOBe7gfLsgfmMJM5wX\u002BJqBu9Xo/O57N6fWKaJvr9PgqFQljDhI9ms0mTyUS9PuHieDyOwWCAYrEY1gl1axEEAcbjMTabDSnpbwYMm0ynU1yvV2kSk6oGP8fjcV6EHcxmMySTSSQSCUSjUaV\u002BRxqcTid6fESUSiU5o2EY2ibieDxSJpOJcAdcNJ/PZTe8Nh1Eq9XCdrulfD4fqdVqUlyv17ILHQSHx7ZtDIdDWiwWT1HoL0fU63X4vo/lcqmkx2piMVwuFxmcbwjHcdDpdJBOp\u002BXJZrM4HA6yq9vtpmXyhuu6VK1WybIsKpfLtN/vibfkeV54OPavIL39GC/YpN1uY7fbIZfLYbVaodvtguiZ4FQqhdFoxJn5tV7CJpVKhRqNRpj7T4A7TASPsDpkW/8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-12T14:46:45.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T14:46:45.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeasurementGraphView.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\Views\\MeasurementGraphView.xaml",
+              "RelativeDocumentMoniker": "Views\\MeasurementGraphView.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\Views\\MeasurementGraphView.xaml",
+              "RelativeToolTip": "Views\\MeasurementGraphView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T14:46:45.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:46:45.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:46:45.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T14:46:45.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NetworkEntitiesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\ViewModel\\NetworkEntitiesViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\NetworkEntitiesViewModel.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\ViewModel\\NetworkEntitiesViewModel.cs",
+              "RelativeToolTip": "ViewModel\\NetworkEntitiesViewModel.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAIAwwNgAAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-12T14:46:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NetworkEntitiesView.xaml",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\Views\\NetworkEntitiesView.xaml",
+              "RelativeDocumentMoniker": "Views\\NetworkEntitiesView.xaml",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\PROJ_GIT\\RadHCI2\\NetworkService\\Views\\NetworkEntitiesView.xaml",
+              "RelativeToolTip": "Views\\NetworkEntitiesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T14:46:45.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

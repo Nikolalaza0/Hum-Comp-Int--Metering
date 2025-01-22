@@ -1,0 +1,75 @@
+﻿<Window x:Class="NetworkService.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetworkService"
+		xmlns:views="clr-namespace:NetworkService.Views"
+		xmlns:viewModels="clr-namespace:NetworkService.ViewModel"
+        mc:Ignorable="d"
+        Title="NetworkService" Height="600" Width="400" ResizeMode="NoResize">
+
+    <Window.DataContext>
+        <viewModels:MainWindowViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type viewModels:NetworkEntitiesViewModel}">
+            <views:NetworkEntitiesView/>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type viewModels:NetworkDisplayViewModel}">
+            <views:NetworkDisplayView/>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type viewModels:MeasurementGraphViewModel}">
+            <views:MeasurementGraphView/>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid Background="#F7F7F7">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="1">
+            <Menu DockPanel.Dock="Bottom" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width ="270" Margin="20" Background="#8B9DC3" BorderThickness="1" BorderBrush="#4F4F4F">
+
+                <MenuItem Command="{Binding NavCommand}" CommandParameter="NetworkEntities" >
+                    <MenuItem.Header>
+                        <Image Source="/Icons/Home.png"/>
+                    </MenuItem.Header>
+                </MenuItem>
+
+                <MenuItem IsEnabled="False" Width="49"/>
+
+
+                <MenuItem Command="{Binding NavCommand}" CommandParameter="NetworkDisplay" >
+                    <MenuItem.Header>
+                        <Image Source="/Icons/PrintPreviewMaxPages.png"/>
+                    </MenuItem.Header>
+                </MenuItem>
+
+                <MenuItem IsEnabled="False" Width="49"/>
+
+
+                <MenuItem Command="{Binding NavCommand}" CommandParameter="MeasurementGraph" >
+                    <MenuItem.Header>
+                        <Image Source="/Icons/LineChart.png"/>
+                    </MenuItem.Header>
+                </MenuItem>
+
+                <MenuItem IsEnabled="False" Width="49"/>
+
+
+                <MenuItem Command="{Binding UndoAction}">
+                    <MenuItem.Header>
+                        <Image Source="/Icons/Undo.png"/>
+                    </MenuItem.Header>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <Grid Grid.Row="0" Height="510" HorizontalAlignment="Center" Background="#F7F7F7">
+            <ContentControl Content="{Binding CurrentViewModel}" HorizontalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</Window>
